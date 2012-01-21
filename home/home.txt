@@ -1,0 +1,70 @@
+==A Variety of Public Offerings From One Guy Group, Inc.==
+
+_"Users of commercial software who immediately upgrade to newer versions of an application expect to find improvements. Instead, they often find useful features removed, new or unfixed bugs, reduced performance, or non-productive changes to the user interface. These users have no recourse, since many of these niche applications are available from only one or two large companies...until now."_
+
+===Who am I?===
+
+I'm a C++ programmer named [http://vinniefalco.com Vinnie Falco]. You can visit my [http://vinniefalco.com personal website] to learn more about me.
+
+===Who are we?===
+
+We are a collection of individuals and corporations who embrace the !OneGuy™ principles, to form a network of creative minds who add to the collective knowledge and art of society through public domain contributions, in a manner compatible with commercial success (making money).
+
+===What is a !OneGuy™?===
+
+A !OneGuy™:
+
+  * Places human need above profit.
+  * Contributes to the public domain.
+  * Enhances the world by empowering people.
+
+===Free?===
+
+Yes, free. !OneGuy™ offerings come with little to no restrictions. However, contributors sometimes require that paid licenses for their professional products (hosted elsewhere) be purchased when someone utilizes the software or content in a commercial setting (making money).
+
+----
+
+===What's available?===
+
+Our current offerings include the following open source products hosted here:
+
+*[http://code.google.com/p/playlist-creation-tools Music Playlist Creation Tools]* http://oneguy.googlecode.com/files/shim_01x16.gif <g:plusone size="small" href="http://code.google.com/p/playlist-creation-tools"></g:plusone>
+
+ A simple application for Windows or Macintosh that automatically makes tidy playlists for each folder and subfolder at the touch of a button, allowing you to organize and browse your music by folders even on devices that do not support folder browsing.
+
+*[http://code.google.com/p/dspfilterscpp/ A Collection of Useful C++ Classes for Digital Signal Processing]* http://oneguy.googlecode.com/files/shim_01x16.gif <g:plusone size="small" href="http://code.google.com/p/dspfilterscpp"></g:plusone>
+
+ Three projects in one, a demonstration application using the Juce framework (provided, under a separate GPL license) and a set of C++ classes to implement digital filtering. These projects are designed to work on all platforms.
+
+----
+==Who else is involved?==
+
+There are other individuals and organizations involved in the publication and distribution of useful software tools and applications under approved open source licenses, including but not limited to:
+
+*[http://dakotacompher.com Norman Bates] <g:plusone size="small" href="http://dakotacompher.com"></g:plusone>
+
+ The first !OneGuy™, talented rap artist and musician proficient with music creation software and several instruments including guitar, bass, drum, and keyboards.
+
+*[http://monganmedia.com Dean Mongan] <g:plusone size="small" href="http://monganmedia.com"></g:plusone>
+
+ Dean Mongan is a talented videographer and photographer, and is also quite skilled at post-production.
+
+*[http://www.rawmaterialsoftware.com Raw Material Software]* <g:plusone size="small" href="http://www.rawmaterialsoftware.com"></g:plusone>
+
+ The makers of [http://rawmaterialsoftware.com/juce.php Juce], an all-encompassing C++ class library for developing cross-platform software that contains pretty much everything you're likely to need to create most applications; It's particularly well-suited for building highly-customised GUIs, and for handling graphics and sound.
+
+*[http://www.kvraudio.com/forum/viewforum.php?f=33 KVR Audio DSP and Plug-in Development Forum]*
+
+ KVR Audio is the Internet's number one news and information resource for open standard audio plugins. They report new releases, product announcements and product updates (major and minor) for all VST Plugins, DirectX Plugins and Audio Units Plugins. They manage a fully searchable audio plugin database (updated daily), and offer many free member services including user reviews, product update notifications and a very active discussion forum. In addition, they also host official support forums for many plugin developers plus the official Receptor support forum.
+
+----
+==Who are we?==
+
+*One Guy Group, Inc.* is founded, owned, and operated by Vinnie Falco.
+
+http://oneguy.googlecode.com/files/OneGuyMainImage_773w.png
+
+----
+
+Copyright © 2011 by One Guy Group, Inc., All Rights Reserved Worldwide.<br>
+[http://code.google.com/p/oneguy OneGuy]™ is a trademark and The Free Software Gurus? is a service mark of One Guy Group, Inc. and may not be used without permission.

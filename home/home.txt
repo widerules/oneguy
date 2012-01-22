@@ -39,11 +39,7 @@ Our current offerings include the following open source products hosted here:
 ----
 ==Who else is involved?==
 
-There are other individuals and organizations involved in the publication and distribution of useful software tools and applications under approved open source licenses, including but not limited to:
-
-*[http://dakotacompher.com Norman Bates] <g:plusone size="small" href="http://dakotacompher.com"></g:plusone>
-
- The first !OneGuy™, talented rap artist and musician proficient with music creation software and several instruments including guitar, bass, drum, and keyboards.
+There are other individuals and organizations involved in the publication and distribution of useful software tools and applications un	der approved open source licenses, including but not limited to:
 
 *[http://monganmedia.com Dean Mongan] <g:plusone size="small" href="http://monganmedia.com"></g:plusone>
 
@@ -66,5 +62,5 @@ http://oneguy.googlecode.com/files/OneGuyMainImage_773w.png
 
 ----
 
-Copyright © 2011 by One Guy Group, Inc., All Rights Reserved Worldwide.<br>
-[http://code.google.com/p/oneguy OneGuy]™ is a trademark and The Free Software Gurus? is a service mark of One Guy Group, Inc. and may not be used without permission.
+Copyright © 2011 One Guy Group, Inc.<br>
+[http://code.google.com/p/oneguy OneGuy]™ is a trademark of One Guy Group, Inc. and may not be used without permission.
